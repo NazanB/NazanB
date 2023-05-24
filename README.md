@@ -3,6 +3,7 @@
 ✨On the way to becoming a web developer🐱‍🏍
 
 ![codewars](https://www.codewars.com/users/NazanB/badges/small)
+
 [CodeWars profile](https://www.codewars.com/users/NazanB)
 
 <!--
