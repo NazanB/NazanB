@@ -2,6 +2,14 @@
 
 ✨On the way to becoming a web developer
 
+
+<p align="left">
+  <h3>Bootcamp</h3>
+  <a href="https://www.coding-bootcamps.eu/" target="_blank" rel="noreferrer">
+    <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=115x10000:format=png/path/s0bc1816f4b388266/image/i2c7016bab2e2fa88/version/1647271231/image.png" alt="css3" width="40" height="40" />
+  </a>
+</p>
+
 [![Lusitg](https://raw.githubusercontent.com/vic1707/vic1707/output/github-snake-dark.svg)](https://raw.githubusercontent.com/vic1707/vic1707/output/github-snake-dark.svg)
 
 
